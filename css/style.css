@@ -199,7 +199,7 @@ hr {
 {   
     filter: grayscale(100%);
 
-    background-image: url(../img/andén.jpg);
+    background-image: url(../img/victor-garcia-OO0_7yJa-s0-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -212,7 +212,7 @@ hr {
 #foto6
 {       filter: grayscale(100%);
 
-    background-image: url(../img/andén.jpg);
+    background-image: url(../img/adult-backpack-blur-business-298018.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -375,29 +375,25 @@ footer {
 .iconoMedium {
     width: 25px;
     height:25px;
-
     background-image: url(../img/logo-Medium.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-right: 5px;
+    margin-right: 20px;
 
 }
 .iconoEmail {
     width: 25px;
     height:25px;
-
-
     background-image: url(../img/correo.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-right: 7px;
+    margin-right: 22px;
 
 
 }
 .iconoLinkedin {
     width: 25px;
     height:25px;
-
     background-image: url(../img/linkedin.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -426,6 +422,11 @@ main {
     width: 33.3%;
     margin: 0 auto;
     text-align: center;
+}
+.explicacion p {
+    font-family: "roboto-regular";
+    font-size: 18px;
+    line-height: 24px;
 }
 
 @-webkit-keyframes bajar {
